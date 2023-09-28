@@ -1,5 +1,5 @@
-## 👋 Hello! Welcome to my Github profile.
-**My name is Douglas Costa**
+### 👋 Hello! Welcome to my Github profile.
+****My name is Douglas Costa****
 
 <span style="font-size:larger;">**Tools and Technologies**</span>
 
